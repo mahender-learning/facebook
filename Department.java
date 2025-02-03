@@ -14,4 +14,6 @@ class Department{
   private String pincode;
 
   private String isActive;
+
+  private String isRestricted;
 }
